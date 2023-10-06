@@ -30,7 +30,7 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Practica 9: Itemizacion de las películas e incorporación de widget card |
-| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de la aplicación que brinda acceso directo a las peliculas y series del momento. Esta aplicación permite explorar un catálogo de expansión y películas, series.Esta aplicacion el el nombre de "MovieAPP," puede acceder a información detallada sobre cada título y sus fechas de lanzamiento. Además, disfrutar de una integración fluida con tus servicios de transmisión preferidos, permitiéndote ver películas y episodios directamente desde la aplicación. Su interfaz de usuario elegante y fácil navegación garantiza una experiencia intuitiva y gratificante. Para este avance se realizaron mejoras como un margen entre cada imagen o portada de cada película, como también texto con el respectivo titulo de las películas también se incorporo una imagen de carga al momento de refrescar la imagen de la película.  |
+| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de la aplicación que brinda acceso directo a las peliculas y series del momento. Esta aplicación permite explorar un catálogo de expansión y películas, series.Esta aplicacion el el nombre de "MovieAPP," puede acceder a información detallada sobre cada título y sus fechas de lanzamiento. Para este avance se realizaron mejoras como un margen entre cada imagen o portada de cada película, como también texto con el respectivo titulo de las películas también se incorporo una imagen de carga al momento de refrescar la imagen de la película.  |
 |  Fecha de Carga | 03/09/23  |
 
 &nbsp;
