@@ -1,4 +1,4 @@
-# DMI_Practica8_200561
+# DMI_Practica9_200561
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -28,9 +28,9 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 8 Aplicación en Flutter y StatelesWidgets |
+| Nombre  |  Practica 9 Aplicación en Flutter y StatelesWidgets |
 | Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de la aplicación que brinda acceso directo a las peliculas y series del momento. Esta aplicación permite explorar un catálogo de expansión y películas, series. Esta aplicacion el el nombre de "MovieAPP," puede acceder a información detallada sobre cada título y sus fechas de lanzamiento. Además, disfrutar de una integración fluida con tus servicios de transmisión preferidos, permitiéndote ver películas y episodios directamente desde la aplicación. Su interfaz de usuario elegante y fácil navegación garantiza una experiencia intuitiva y gratificante. |
-|  Fecha de Carga | 28/09/23  |
+|  Fecha de Carga | 03/09/23  |
 
 &nbsp;
 &nbsp;
